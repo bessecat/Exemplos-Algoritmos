@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659632460 source:d:\biopark connect\algoritmos\aula_04_08\main.c
+	<stdio.h>
+	<stdlib.h>
+

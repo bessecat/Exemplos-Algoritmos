@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658521670 source:d:\biopark connect\algoritmos\pascoa\main.c
+	<stdio.h>
+	<stdlib.h>
+
